@@ -28,3 +28,9 @@ fixed_tests_False = (
     ( "spam",    "eggs"  )
 )
 """
+def string(a,b):
+    return a.endswith(b)
+
+print(string('junior','or'))
+ 
+ #test unit
